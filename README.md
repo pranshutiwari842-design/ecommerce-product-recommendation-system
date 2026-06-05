@@ -245,7 +245,7 @@ streamlit run app.py
 ## 🚀 Live Demo
 
 Streamlit App:
-https://your-app-name.streamlit.app
+https://ecommerce-appuct-recommendation-system-jbybhzeyblannifvbci67b.streamlit.app/
 
 
 ---

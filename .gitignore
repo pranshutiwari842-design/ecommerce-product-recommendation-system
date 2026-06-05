@@ -1,0 +1,4 @@
+data/Reviews.csv
+models/*.pkl
+__pycache__/
+*.pyc

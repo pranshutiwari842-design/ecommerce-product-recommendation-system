@@ -242,6 +242,11 @@ python train_model.py
 ```bash
 streamlit run app.py
 ```
+## 🚀 Live Demo
+
+Streamlit App:
+https://your-app-name.streamlit.app
+
 
 ---
 
